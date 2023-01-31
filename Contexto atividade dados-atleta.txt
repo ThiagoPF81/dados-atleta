@@ -1,0 +1,14 @@
+
+Atividade desenvolvida para receber dados de atletas, e retornar ao usuário os seguintes parâmetros:
+
+-Nome;
+-Idade;
+-Peso;
+-Altura;
+-Notas recebidas;
+-Média das notas;
+-IMC;
+-Categoria em que o atleta está participando.
+
+No desenvolvimento deste programa, desenvolvemos maneiras para que fosse recebido os dados de um atleta, 
+e retornasse os dados desse atleta.
